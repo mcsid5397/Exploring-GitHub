@@ -1,0 +1,6 @@
+print("Hi!...")
+print("May I know your name please?...")
+x = input('name: ')
+print("Hello,", x)
+print("Nice meeting you", x)
+print("Please come back when you feel bored, Thankyou for being here with us", x, "have a nice day!...")

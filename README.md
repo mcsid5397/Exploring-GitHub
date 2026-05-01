@@ -1,2 +1,3 @@
-# First-Project
-Learnt Open Source Demystified, yet trying to learn/ explore github space.
+# Exploring-GitHub
+Started my first project on the subject Open Source Demystified.  
+>Sailing on the same boat learning/ exploring github world.

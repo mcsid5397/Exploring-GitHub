@@ -1,1 +1,0 @@
-print(f"Good to see y'all visiting my first-project page, please put a word, I'll be more than happy to communicate back!...")
